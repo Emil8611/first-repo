@@ -12,7 +12,8 @@ namespace advancedLoops
         {
             Console.WriteLine("Hello, my name is Emi.");
             Console.WriteLine("This is my first Repository!");
-            Console.WriteLine("Update with tortoise");
+	    Console.WriteLine(Update);
+            Console.WriteLine("Update with Tortoise");
         }
     }
 }
